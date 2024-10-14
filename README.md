@@ -11,7 +11,7 @@ This lab exercise involves creating, observing, and completing tickets within th
 
 ## Lab Overview
 
-In this lab, you will:
+In this lab, I:
 
 - Create tickets as an end-user.
 - Observe and manage ticket properties as a help desk agent.
