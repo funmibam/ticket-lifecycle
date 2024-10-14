@@ -1,6 +1,6 @@
 # osTicket Lab Exercise
 
-This lab exercise involves creating, observing, and completing tickets within the osTicket system, both as an end-user and as a help desk agent. This project will help develop ticket management skills, which are essential in a help desk or IT support role.
+This lab exercise involves creating, observing, and completing tickets within the osTicket system, both as an end-user and as a help desk agent. This project will help develop ticket management skills essential in a help desk or IT support role.
 
 ## Access URLs
 
@@ -16,7 +16,7 @@ In this lab, you will:
 - Create tickets as an end-user.
 - Observe and manage ticket properties as a help desk agent.
 - Work through ticketing scenarios to completion.
-- Explore the capabilities of the osTicket system, including role management, SLAs, and department configuration.
+- Explore osTicket system features, including role management, SLAs, and department configuration.
 
 ---
 
@@ -26,6 +26,9 @@ In this lab, you will:
 
 - Change the **SysAdmins Department** to a **Top Level Department**.
 - **DELETE** the Maintenance Department (instead of archiving it).
+
+### Screenshot: Update Department Settings
+![Update Department Settings](images/update-department.png)
 
 ---
 
@@ -42,9 +45,15 @@ In this lab, you will:
    - **SLA**: Default
    - **Assigned To**: Unassigned
 
+### Screenshot: End-User Ticket Creation
+![End-User Ticket Creation](images/ticket-creation.png)
+
 3. **Set Properties for the Ticket**:
    - **SLA**: Sev-A (1 hour, 24/7)
    - **Department**: Online Banking Department
+
+### Screenshot: Setting Ticket Properties
+![Setting Ticket Properties](images/ticket-properties.png)
 
 4. **As John**, attempt to view or change the ticket after setting properties. Note whether you have access.
 
@@ -67,6 +76,9 @@ In this lab, you will:
    - **SLA**: Sev-B (4 hours, 24/7)
    - **Department**: Support
 
+### Screenshot: Help Desk Agent Observing Ticket Properties
+![Help Desk Agent Observing Ticket Properties](images/agent-observing.png)
+
 4. **As John**, work the ticket to completion.
 
 ---
@@ -82,6 +94,9 @@ In this lab, you will:
    - **SLA**: Default
    - **Assigned To**: Unassigned
 
+### Screenshot: End-User Ticket Creation for CFO Laptop
+![End-User Ticket Creation for CFO Laptop](images/cfo-laptop-ticket.png)
+
 3. **Set Properties for the Ticket**:
    - **SLA**: Sev-B (4 hours, 24/7)
    - **Department**: Support
@@ -92,28 +107,34 @@ In this lab, you will:
 
 ## Managing Escalated Tickets
 
-- **Set Properties** to all the tickets. Assign **SEV-A** for the SysAdmins ticket last. 
-- Observe that the ticket becomes **inaccessible** after setting SEV-A.
-- Switch to the **Admin Panel** and assign yourself view access to SysAdmins.
-- Switch back to the **Agent Panel** and observe the **escalated ticket**.
-- Note that you can no longer make changes to this ticket.
+1. **Set Properties** to all the tickets. Assign **SEV-A** for the SysAdmins ticket last. 
+2. Observe that the ticket becomes **inaccessible** after setting SEV-A.
+3. Switch to the **Admin Panel** and assign yourself view access to SysAdmins.
+4. Switch back to the **Agent Panel** and observe the **escalated ticket**.
+5. Note that you can no longer make changes to this ticket.
+
+### Screenshot: Escalated Ticket
+![Escalated Ticket](images/escalated-ticket.png)
 
 ---
 
 ## Final Steps and Observations
 
-1. **Solve all of the tickets**. 
+1. **Solve all of the tickets**.
 2. Discuss the **email feature**:
    - In most ticketing systems, including osTicket, there’s an email notification feature. Each time a ticket is updated, the user is notified, and they can respond via email.
 3. **Real-Life Ticket Intake**:
    - Tickets are often created through various channels like phone, chat, email, web forms, or in-person requests. It’s important to document everything you work on for accurate metrics and reporting.
    - Even if you resolve an issue on the spot, make sure to create a ticket for it.
 
+### Screenshot: Ticket Resolution
+![Ticket Resolution](images/ticket-resolution.png)
+
 ---
 
 ## Additional Practice
 
-This lab covers only a portion of osTicket's capabilities. You are encouraged to explore the system further, especially the email feature. Try repeating the lab steps multiple times to build intuition. 
+This lab covers only a portion of osTicket's capabilities. You are encouraged to explore the system further, especially the email feature. Try repeating the lab steps multiple times to build intuition.
 
 ---
 
@@ -122,3 +143,7 @@ This lab covers only a portion of osTicket's capabilities. You are encouraged to
 This lab will help build your proficiency in:
 - **Technical Ability**: Understanding osTicket’s ticketing workflow and configuration.
 - **Problem Solving**: Using ticket properties like SLAs, departments, and priority to manage and complete tickets efficiently.
+
+
+
+ 
