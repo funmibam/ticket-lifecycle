@@ -1,6 +1,6 @@
 # osTicket Lab Exercise
 
-This lab exercise involves creating, observing, and completing tickets within the osTicket system, both as an end-user and as a help desk agent. This project will help develop ticket management skills essential in a help desk or IT support role.
+This lab exercise involves creating, observing, and completing tickets within the osTicket system, both as an end-user and as a help desk agent. This project will help me develop essential ticket management skills for a help desk or IT support role.
 
 ## Access URLs
 
@@ -11,7 +11,7 @@ This lab exercise involves creating, observing, and completing tickets within th
 
 ## Lab Overview
 
-In this lab, I:
+In this lab, I created:
 
 - Create tickets as an end-user.
 - Observe and manage ticket properties as a help desk agent.
