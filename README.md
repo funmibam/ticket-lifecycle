@@ -28,7 +28,9 @@ In this lab, I created:
 - **DELETE** the Maintenance Department (instead of archiving it).
 
 ### Screenshot: Update Department Settings
-![Update Department Settings](images/update-department.png)
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/a5bc362b-a73b-4a9a-93af-6c1a4152c4c7">
+
+
 
 ---
 
@@ -46,14 +48,16 @@ In this lab, I created:
    - **Assigned To**: Unassigned
 
 ### Screenshot: End-User Ticket Creation
-![End-User Ticket Creation](images/ticket-creation.png)
+
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/2ad1f497-5561-4dac-936f-ca11e7f8dcd0">
 
 3. **Set Properties for the Ticket**:
    - **SLA**: Sev-A (1 hour, 24/7)
    - **Department**: Online Banking Department
 
 ### Screenshot: Setting Ticket Properties
-![Setting Ticket Properties](images/ticket-properties.png)
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/dfa21441-4aba-484f-8b1e-756dd469dbfc">
+
 
 4. **As John**, attempt to view or change the ticket after setting properties. Note whether you have access.
 
@@ -77,7 +81,8 @@ In this lab, I created:
    - **Department**: Support
 
 ### Screenshot: Help Desk Agent Observing Ticket Properties
-![Help Desk Agent Observing Ticket Properties](images/agent-observing.png)
+
+<img width="722" alt="image" src="https://github.com/user-attachments/assets/432d6cfd-49aa-44ac-bdfd-80b2260efc99">
 
 4. **As John**, work the ticket to completion.
 
@@ -114,7 +119,8 @@ In this lab, I created:
 5. Note that you can no longer make changes to this ticket.
 
 ### Screenshot: Escalated Ticket
-![Escalated Ticket](images/escalated-ticket.png)
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/e6f1b76e-b8b5-42a3-9cf2-4bc08c1c80c0">
+
 
 ---
 
@@ -128,7 +134,8 @@ In this lab, I created:
    - Even if you resolve an issue on the spot, make sure to create a ticket for it.
 
 ### Screenshot: Ticket Resolution
-![Ticket Resolution](images/ticket-resolution.png)
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/80da9995-fb3c-49c4-a4b5-8e9ce53ae527">
+
 
 ---
 
