@@ -49,7 +49,10 @@ In this lab, I created:
 
 ### Screenshot: End-User Ticket Creation
 
-<img width="718" alt="image" src="https://github.com/user-attachments/assets/2ad1f497-5561-4dac-936f-ca11e7f8dcd0">
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/7a80f15e-8349-4cd7-82ce-21ff0a51939e">
+
+
+
 
 3. **Set Properties for the Ticket**:
    - **SLA**: Sev-A (1 hour, 24/7)
@@ -57,6 +60,9 @@ In this lab, I created:
 
 ### Screenshot: Setting Ticket Properties
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/dfa21441-4aba-484f-8b1e-756dd469dbfc">
+
+
+<img width="727" alt="image" src="https://github.com/user-attachments/assets/0baf6af9-ebbe-4042-9a80-1c096a57d9fa">
 
 
 4. **As John**, attempt to view or change the ticket after setting properties. Note whether you have access.
@@ -100,7 +106,8 @@ In this lab, I created:
    - **Assigned To**: Unassigned
 
 ### Screenshot: End-User Ticket Creation for CFO Laptop
-![End-User Ticket Creation for CFO Laptop](images/cfo-laptop-ticket.png)
+
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/4a543975-7d8d-4d0a-90bf-fb7df53f1dab">
 
 3. **Set Properties for the Ticket**:
    - **SLA**: Sev-B (4 hours, 24/7)
