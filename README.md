@@ -61,6 +61,9 @@ In this lab, I created:
 ### Screenshot: Setting Ticket Properties
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/dfa21441-4aba-484f-8b1e-756dd469dbfc">
 
+4. **As John**, attempt to view or change the ticket after setting properties. Note whether you have access.
+
+
 
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/2a6201b8-854c-4609-9a38-cbdbceba49f8">
 
@@ -69,14 +72,6 @@ In this lab, I created:
 
 
 
-
-
-
-
-
-
-
-4. **As John**, attempt to view or change the ticket after setting properties. Note whether you have access.
 
 5. **As Jane**, work the ticket to completion.
 
