@@ -62,7 +62,18 @@ In this lab, I created:
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/dfa21441-4aba-484f-8b1e-756dd469dbfc">
 
 
-<img width="727" alt="image" src="https://github.com/user-attachments/assets/0baf6af9-ebbe-4042-9a80-1c096a57d9fa">
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/2a6201b8-854c-4609-9a38-cbdbceba49f8">
+
+
+
+
+
+
+
+
+
+
+
 
 
 4. **As John**, attempt to view or change the ticket after setting properties. Note whether you have access.
